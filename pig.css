@@ -1,0 +1,99 @@
+.s{
+    position: fixed;
+    height: 200px;
+    width: 200px;
+    
+}
+.circle{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(245, 141, 201);
+    border-radius: 100%;
+    position: absolute;
+    margin:65px;
+    top: 10px;
+    border: 1px solid black;
+    
+
+}
+.circle:hover{
+    background-color: aqua;
+
+}
+
+
+.wc{
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    border-radius: 100%;
+    position: absolute;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.wc2{
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    border-radius: 100%;
+    position: absolute;
+    margin-left: 120px;
+    margin-top: 40px;
+}
+.bc{
+    height: 25px;
+    width: 25px;
+    background-color: black;
+    border-radius: 100%;
+    margin-top: 12px;
+    margin-left: 13px;
+}
+.oval{
+    height: 40px;
+    width: 80px;
+    background-color: red;
+    border-radius: 40px ;
+    border: 1px solid black;
+    position: fixed;
+    
+    margin-top: 120px;
+    margin-left: 55px;
+}
+.mc{
+    height: 20px;
+    width: 20px;
+    background-color: black;
+    border-radius: 100%;
+    margin-left: 10px;
+    margin-top: 8px;
+}
+
+.mc2{
+    height: 20px;
+    width: 20px;
+    background-color: rgb(9, 9, 9);
+    border-radius: 100%;
+    margin-left: 105px;
+    margin-top: 129px;
+    position: fixed;
+}
+.ear1{
+    position: fixed;
+    height: 90px;
+    width: 65px;
+    background-color:rgb(245, 141, 201);
+    border: 1px solid black;
+    border-radius: 40px;
+    margin-left: 80px;
+    margin-top: 50px;
+}
+.ear2{
+    position: fixed;
+    height: 90px;
+    width: 65px;
+    background-color:rgb(245, 141, 201);
+    border: 1px solid black;
+    border-radius: 40px;
+    margin-left: 180px;
+    margin-top: 50px;
+}
